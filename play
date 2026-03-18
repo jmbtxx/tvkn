@@ -268,16 +268,42 @@ ENTERTAINMENT
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="ID: AniPlus" tvg-logo="https://mimipipi22.github.io/logo/entertainment/aniplus.jpg" group-title="ENTERTAINMENT",ANIPLUS
-https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
-#https://slive.mana2.my/AniPlus/index.mpd
-#https://cdn10jtedge.indihometv.com/atm/DASH/aniplus/manifest.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWeTXowPKm3vbGz2EGnUDxw8udaOeALRrWhF6Nwp-R-CrqJSWt8whClicQl_x7s22umRVWSGYU3RQoaSXshdmhAMm30a3IMOhdFUkiDYefr2mrurOXKOtlMxl9zmQ-HTz6Zl0gkt1vJT6pTMzOlTj8Za8nlqomews7g94_qTvsFrs49fn4uGXyI2Hs5-U0/s700/SINPO%20TV.png" group-title="INDIHOME TV",SINPO TV
+#https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sinpotv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png" group-title="INDIHOME TV",INDOSIAR
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png" group-title="INDIHOME TV",MNCTV
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png" group-title="INDIHOME TV",ANIMAX
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOswYxSurFYD6yBWgqPA2FszUp8JYFH0VTxzEFzB4OF_mhSZgZpi6IpMZ_BsQvkrlWcVUskAyP-oMBdiqjFhmLnPVOrGfAb32-nwI0fmudX4Wnr3vgfpjtvif1OlJaSnLEvr_5E8F9nORtUPcn7L4tcnBuNQh6LxGxGbdRM-oyJL_K49UT7HLolzRAVC4/s700/RCTI.png" group-title="INDIHOME TV",RCTI
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" group-title="INDIHOME TV",SCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWXLEjqZOOO2LT5C_1aBWyMBW7K3X8UaK2r3jmKvNbuXaWpei7VO_9LR1lfKqXhTIvYjciKBzFsa2ENtKRmI5snupnZUB4zdLh-mzhgQwwryclFl-OCE-auGTDPhjOog0Wv36dnGXU1WJTG3T9yT-ZcWj7ddXMMZTLilzzt8rrZd7zLmHd221buxvteyRU/s700/GTV.png" group-title="INDIHOME TV",GTV
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVapQVSVsIweoWpfpUcwU1od2hb8PtzQa0kV24Rpg_6wV45523L3QSaeXmAgDKlLSaVv15BnXvjP9nj6OggMpQpnPUnOTqsDE28BopevlSXrFY-v4R2l1hElLZNidZbdGnTlV_WfMkVIxIvyStXztCDROscV6WYj3ugO1q9pREWJp1ekgnnLItS102EyMH/s700/RTV.png" group-title="INDIHOME TV",RTV
+https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvNXbBTyT8O9f5tjeFrjxUQQ-StFbFnEOWofRETtGRlKKnxyjjT_9PTr6Ye5NPDwYu6EEacOxbkdrZYpc1cD1gtgStw9Sd24MnyMo5vMQ02BQeePI9Q4gi6faBXW2l3VHPvdH7Z9LcQM90MYKTf09zIV6M06aXAGreyvkH4WKduMpB0FDkUgJBLcc2To0h/s700/BTV.png" group-title="INDIHOME TV",BTV
+https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqu3uVWEYZpgNsRFjsIns7W4IJoco3hqCoJR6PhJXA4wBlKPukSG4a1qPJblt0aELWfuvhwGZWcIZMhxltraI4C2onG9vRiJWwW4i8a04apMc-MfpIQ4ptrOhcAQkXyVPKHeylwbVZAKuS3JxtoJugGvp7Fpr8yL-goijBHOUpPA2BXnztqR4kg961UI9o/s700/INEWS.png" group-title="INDIHOME TV",iNEWS
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1 tvg-id="15" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTKuPVKXn_RBQ5ebV179yuSLUL_U3NWSo80n5SjEF420QzmQhyQZlz1fz_lOjIOLc0MXZfSnzUYddjzhGYy6WaoJm99hV2YZVmAd26zLuq65PwusxbnxUDR55FcxjKvNuOYMdz00HQGcWvmNt-5o9SK9bPynzFnA8l0CrZDlgxxK19tWIzKQm5hpwfWb3/s700/TVONE.png" group-title="INDIHOME TV", TVONE
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1 tvg-id="26" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-o8okDiWdrFIIy2N-MIuiBHbtHcj4QbtkFiTTFbpA1GUavwiw8p3rITS9GgJUFYptDaD_18mIv6eFxY_d9xQE-iRriiwzilVNxzQ_BQYKi5cr_nj7b4nzwJBz1W3UF5s2hH95yjed0iAsV7UkgXdZWuHKSyvxCqvahv5OGziNopbHSFylg0OIgufQ5G9D/s700/NUSANTARA%20TV.png" group-title="INDIHOME TV", NUSANTARA TV
+https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4S8ncj0jUU__dY6xhxtOLIcvsxg_8KuHKBkjcNi4u6t4ooU09mESxfGueK91oI5ErDNbOyP8dZobrjGCzTb7HfBVc0KexuXB5VP7ISiBz38Xvtrrt_Q8NNiGovWjkQiSaPqShp6ClbIEmKKexjTjB4i3-4vwKIHyKck-0nYaghChkd1r7GQqqerlDOp6F/s700/KOMPAS%20TV.png" group-title="INDIHOME TV", KOMPAS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+
+#EXTINF:-1 tvg-id="17" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4S8ncj0jUU__dY6xhxtOLIcvsxg_8KuHKBkjcNi4u6t4ooU09mESxfGueK91oI5ErDNbOyP8dZobrjGCzTb7HfBVc0KexuXB5VP7ISiBz38Xvtrrt_Q8NNiGovWjkQiSaPqShp6ClbIEmKKexjTjB4i3-4vwKIHyKck-0nYaghChkd1r7GQqqerlDOp6F/s700/KOMPAS%20TV.png" group-title="INDIHOME TV", ANIMAX
 https://cdn10jtedge.indihometv.com/atm/DASH/animax/manifest.mpd
