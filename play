@@ -276,13 +276,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 #https://slive.mana2.my/AniPlus/index.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/aniplus/manifest.mpd
 
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="Entertainment", Animax
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.indihometv.com/drmgateway/v1/drm/widevine/license?drmLicenseToken=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIiwia2lkIjpudWxsfQ.nn1A6MXd_BKqNrgre01DAXxBLE7QHcgc7WIIjx6ZDPdAsUJ2_F4hXw.UsIgoy6_asM_Hpnp.IhtVij_RYDc47oQQwwNR5awshOOBH93Mzn3Ej3oqjnaXEQ4lJeUv8pqQ-QOv86R2eYctqTctD0S7to4t19jgAsugcEL96qAjepTUjW_d71fm9cUywQ8kwBouVmUKUs7aRGIRVfRDWLsFoFfykOgQEuPAJksJ4V24X6a3rwrvxG-_dHQ67trnLmeSSQn0ZpyMf4a99crTlOzxdnYBPxCPjnnLOK_H-r8bDKHJgoIbtGJ0Gv6Gg1GJSVMyZNJI7XAQZ0_ylOHJlLDUVi_Wixp2G2D_R8BEPRDCtwXlhiaDsrtVMD28wwJe51WhOQPaq7HPGpsjMu6QLjSxawlGQwneTbi2BrwkBXt_iV8H.fVOYx_UwGMw5GBTE13U49A|Referer=https://www.indihometv.com/&User-Agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1||R{SSM}|
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/130/animax/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png" group-title="INDIHOME TV",MNCTV
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png" group-title="INDIHOME TV",MNCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/animax/manifest.mpd
