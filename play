@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="3600"
 
 ========================================================================
+TV INDO
+========================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
@@ -243,10 +245,10 @@ https://gooo.blog/opix/genx.m3u8?id=ktv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ
 https://flv.intechmedia.net/live/ch118.m3u8|user-agent=Mozilla/5.0
 
 ========================================================================
-
 ENTERTAINMENT
+========================================================================
 
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="ENTERTAINMENT",AXN
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://jmbtxx.github.io/logo/indo/axn.png" group-title="ENTERTAINMENT",AXN
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
@@ -255,20 +257,20 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD" tvg-logo="https://mimipipi22.github.io/logo/entertainment/animax.jpg" group-title="ENTERTAINMENT",ANIMAX
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD" tvg-logo="https://jmbtxx.github.io/logo/indo/animax.png" group-title="ENTERTAINMENT",ANIMAX
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://jmbtxx.github.io/logo/indo/one.png" group-title="ENTERTAINMENT",ONE
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
+https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 #EXTINF:-1 tvg-id="Aniplus.id" tvg-name="ID: AniPlus" tvg-logo="https://mimipipi22.github.io/logo/entertainment/aniplus.jpg" group-title="ENTERTAINMENT",ANIPLUS
 https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://mimipipi22.github.io/logo/entertainment/one.jpg" group-title="ENTERTAINMENT",ONE
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
