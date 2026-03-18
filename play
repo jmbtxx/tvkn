@@ -248,7 +248,7 @@ https://flv.intechmedia.net/live/ch118.m3u8|user-agent=Mozilla/5.0
 ENTERTAINMENT
 ========================================================================
 
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://jmbtxx.github.io/logo/indo/axn.png" group-title="ENTERTAINMENT",AXN
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://jmbtxx.github.io/logo/ent/axn.png" group-title="ENTERTAINMENT",AXN
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
@@ -257,7 +257,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD" tvg-logo="https://jmbtxx.github.io/logo/indo/animax.png" group-title="ENTERTAINMENT",ANIMAX
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD" tvg-logo="https://jmbtxx.github.io/logo/ent/animax.png" group-title="ENTERTAINMENT",ANIMAX
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
@@ -265,7 +265,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://jmbtxx.github.io/logo/indo/one.png" group-title="ENTERTAINMENT",ONE
+#EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://jmbtxx.github.io/logo/ent/one.png" group-title="ENTERTAINMENT",ONE
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
