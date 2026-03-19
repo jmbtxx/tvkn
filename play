@@ -485,7 +485,7 @@ KIDS
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2uLK627MTwGjXjkqvrWLlgMypvWFCMY88Q7_Oltd0Vq_7AbIoz-EocpW7KBvmehNSZ2C0r9By2uw7OsYvibjtcb9CyBQ4fEXdK7PuDHWUnxGPmG93Kl5lpHJ4_ZD9hpPiaXOZPQR_8mSUfL00uK71KHf8JaRE_DqHOGudsXiz4UuVWNaYgBSZ3uJM1GPY/s700/MAX%20KIDS.png" group-title="KIDS",MAX KIDS
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://jmbtxx.github.io/logo/kids/kidstv.png" group-title="KIDS",KIDS TV
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-logo="https://jmbtxx.github.io/logo/kids/kidstv.png" group-title="KIDS",KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -506,7 +506,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
 
-#EXTINF:-1 tvg-logo="https://jmbtxx.github.io/logo/kids/nick.png" group-title="KIDS",NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.id" tvg-logo="https://jmbtxx.github.io/logo/kids/nick.png" group-title="KIDS",NICKELODEON
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
