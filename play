@@ -157,7 +157,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTINF:-1 tvg-id="MDTV.id" tvg-logo="https://jmbtxx.github.io/logo/indo/mdtv.png" group-title="INDONESIA TV", MDTV
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/bntv.jpg" group-title="INDONESIA TV",BN TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jmbtxx.github.io/logo/indo/bnch.png" group-title="INDONESIA TV",BN CHANNEL
 #EXTVLCOPT:http-referrer=https://youtv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
@@ -172,7 +172,7 @@ http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Jawa.Pos.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jawapost.jpg" group-title="INDONESIA TV",JAWAPOST TV
+#EXTINF:-1 tvg-id="Jawa.Pos.TV.id" tvg-name="" tvg-logo="https://jmbtxx.github.io/logo/indo/jawapostv.png" group-title="INDONESIA TV",JAWAPOST TV
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JAWAPOSTVMAGELANG/_definst_/myStream/playlist.m3u8
@@ -180,7 +180,7 @@ http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/magna.jpg" group-title="INDONESIA TV",MAGNA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://jmbtxx.github.io/logo/indo/magna.png" group-title="INDONESIA TV",MAGNA
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
